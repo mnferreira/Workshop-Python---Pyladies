@@ -1,0 +1,28 @@
+Workshop Python Básico 1 - Pyladies
+
+Tratamento de dados (mineração de dados)
+
+comando:
+
+type (nomeDaVariavel)
+
+É necessário deixar todos os dados que se pretende trabalhar/comparar no mesmo tipo.
+
+Operadores:
+
+Adição +
+Subtração -
+Divisão / ou //
+Multiplicação *
+Potenciação **
+Resto % (usado para determinar números pares (resto = 0) e ímpares (resto != 0))
+
+Divisão, Multiplicação e Potenciação sempre retorna um float.
+
+funções: startswith (); endswith ()
+
+Pesquisar apenas um trecho da palavra (fatiamento de string). Ex: Todas as palavras que começam com 'AM'
+serie = Doctor Who
+serie[6:9] --> vai retornar as letras contidas nesse intervalo de posições. obs: não retorna a letra da posição 9, e sim até as letras até a posição 8.
+
+método 'len': conta quantos caracteres tem uma string
